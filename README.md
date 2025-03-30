@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Izzul, an AI & Data Science enthusiast passionate about building intelligent solutions!<br>🎓 Student at Universiti Teknikal Malaysia Melaka (UTeM), majoring in Artificial Intelligence.<br>💡 Currently working on HartaNext: AI-Powered Real Estate Price Prediction System 🏡📊<br>🔍 Exploring Machine Learning, NLP, Computer Vision, and Data Analytics<br>💻 Experienced in Python, Jupyter Notebook, TensorFlow, Flutter, and ROS<br>🚀 Seeking opportunities in Data Science & AI Research<br><br>
+👋 Hi, I'm Izzul, an AI & Data Science enthusiast passionate about building intelligent solutions!<br>🎓 Student at Universiti Teknikal Malaysia Melaka (UTeM), majoring in Artificial Intelligence.<br>💡 Currently working on HartaNext: AI-Powered Real Estate Price Prediction System 🏡📊<br>🔍 Exploring Machine Learning, NLP, Computer Vision, and Data Analytics<br>💻 Experienced in Python, Jupyter Notebook and C++<br>🚀 Seeking opportunities in Data Science & AI Research<br><br>
 
 
 ## 🌐 Socials:
